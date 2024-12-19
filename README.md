@@ -1,4 +1,4 @@
 # Portfolio_website
 A personal portfolio website
 
-![Portfolio Screenshot](assets/port.png)
+![Portfolio Screenshot](/src/assets/port.png)
